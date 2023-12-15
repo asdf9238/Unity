@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/GameScens.unity
+    guid: 867c38f68c02db440b590820e725813f
+  - enabled: 0
+    path: Assets/Scenes/SwordSkillSelect.unity
+    guid: a5ae9fa1dca22534cb83d6e8bac7d721
+  - enabled: 1
+    path: Assets/Scenes/opening.unity
+    guid: 315753af2c401d242b8b0f81e7451f05
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: edd420ded84ed354dbc68ad39d6c2cc9
+  - enabled: 1
+    path: Assets/Scenes/ending.unity
+    guid: 49510bb3c6e2efa49a34b2c82369c86b
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 22fd24514c25f484e93b613623375cbf
+  m_configObjects: {}
